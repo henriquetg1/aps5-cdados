@@ -1,4 +1,4 @@
-season, place, team, points, played, won, draw, loss, goals_for, goals_against, goals_diff
+season,place,team,points,played,won,draw,loss,goals_for,goals_against,goals_diff
 2003, 1, Cruzeiro, 100, 46, 31, 7, 8, 102, 47, 55
 2003, 2, Santos, 87, 46, 25, 12, 9, 93, 60, 33
 2003, 3, SaoPaulo, 78, 46, 22, 12, 12, 81, 67, 14
